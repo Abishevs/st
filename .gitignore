@@ -1,0 +1,10 @@
+# binaries
+*.o
+st
+
+# backups
+*.orig
+*.bak
+
+# generated config after def config (config.def.h)
+config.h
